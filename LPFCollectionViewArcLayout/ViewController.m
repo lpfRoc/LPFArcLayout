@@ -27,7 +27,7 @@
     [self.view addSubview:collectionView];
     
     
-    
+    NSLog(@"1234");
     
 }
 - (void)touchesBegan:(NSSet *)touches withEvent:(UIEvent *)event

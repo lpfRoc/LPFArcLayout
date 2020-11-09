@@ -49,6 +49,7 @@
     // 设置内边距
     CGFloat insetGap = (self.collectionView.frame.size.width - self.itemSize.width) * 0.5;
     self.sectionInset = UIEdgeInsetsMake(0, insetGap, 0, insetGap);
+    NSLog(@"6666");
 }
 
 /**
